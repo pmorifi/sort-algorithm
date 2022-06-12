@@ -1,0 +1,17 @@
+{
+    "name": "pule/sort-algorithm",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pule Morifi",
+            "email": "pumelo.kp@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9"
+    }
+}
